@@ -1,0 +1,50 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Bdd-1:war exploded">
+    <output-path>$PROJECT_DIR$/target/user</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Bdd-1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Bdd-1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.testng:testng:6.8.1" />
+          <element id="library" level="project" name="Maven: junit:junit:4.10" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+          <element id="library" level="project" name="Maven: org.beanshell:bsh:2.0b4" />
+          <element id="library" level="project" name="Maven: com.beust:jcommander:1.27" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.6" />
+          <element id="library" level="project" name="Maven: org.easytesting:fest-assert:1.4" />
+          <element id="library" level="project" name="Maven: org.easytesting:fest-util:1.1.6" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-all:1.3" />
+          <element id="library" level="project" name="Maven: org.mockito:mockito-all:1.9.5-rc1" />
+          <element id="library" level="project" name="Maven: info.cukes:cucumber-jvm-deps:1.1.6" />
+          <element id="library" level="project" name="Maven: net.masterthought:maven-cucumber-reporting:0.0.5" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-api:2.0" />
+          <element id="library" level="project" name="Maven: org.apache.maven.plugins:maven-gpg-plugin:1.4" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-project:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-settings:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-model:2.0.6" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:2.0.5" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-profile:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-artifact-manager:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-repository-metadata:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-artifact:2.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.maven.wagon:wagon-provider-api:1.0-beta-2" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-registry:2.0.6" />
+          <element id="library" level="project" name="Maven: net.masterthought:cucumber-reporting:0.0.22" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.2.4" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Maven: velocity-tools:velocity-tools:1.4" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.1" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:r09" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.3" />
+          <element id="library" level="project" name="Maven: com.googlecode.totallylazy:totallylazy:991" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.7.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
